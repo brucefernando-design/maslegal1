@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
 });
 
 const whatsappUrl =
-  "https://wa.me/528688183517?text=Hola%2C%20quisiera%20solicitar%20una%20consulta%20con%20Mas%20Legal.";
+  "https://wa.me/528673332882?text=Hola%2C%20quisiera%20solicitar%20una%20consulta%20con%20Mas%20Legal.";
 
 function Index() {
   const [scrolled, setScrolled] = useState(false);
@@ -99,7 +99,7 @@ function Index() {
                 Solicitar consulta
               </a>
               <a className="phone-link" href={whatsappUrl} target="_blank" rel="noreferrer">
-                WhatsApp&nbsp; +52 868 818 3517
+                WhatsApp&nbsp; +52 867 333 2882
               </a>
             </div>
           </div>
@@ -197,7 +197,7 @@ function Index() {
               por WhatsApp.
             </p>
             <a href={whatsappUrl} target="_blank" rel="noreferrer" className="contact-phone">
-              +52 868 818 3517
+              +52 867 333 2882
             </a>
           </div>
 

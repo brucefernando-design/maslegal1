@@ -34,7 +34,7 @@ Composición:
 
 Header transparente sobre el hero, luego sólido al hacer scroll. Logo tipográfico “MAS LEGAL” en dos líneas o con una línea delgada de brass debajo. Sin clipart de báscula.
 
-Hero a pantalla completa, una sola columna izquierda. Un número chico arriba: “Despacho en Nuevo Laredo”. Headline en 3 líneas máximo. Un solo botón gold outline o sólido discreto + texto “WhatsApp +52 868 818 3517”.
+Hero a pantalla completa, una sola columna izquierda. Un número chico arriba: “Despacho en Nuevo Laredo”. Headline en 3 líneas máximo. Un solo botón gold outline o sólido discreto + texto “WhatsApp +52 867 333 2882”.
 
 Foto del hero: documento, sello o escritorio de madera a la derecha o como velo muy oscuro. Sin gente, sin mazo de juez de stock barato.
 
